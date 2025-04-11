@@ -1,4 +1,4 @@
-This end to end project wanted to look at difference in sales for fiscal years 2013 and 2014: FestMan Stores, an online retailer, wanted us to analyze their sales, products sold, profit margins, and discounts for insights
+This end to end project took a look at difference in sales for fiscal years 2013 and 2014: FestMan Stores, an online retailer, wanted us to analyze their sales, products sold, profit margins, and discounts for insights.
 
 The data was presented as a CSV file.
 
